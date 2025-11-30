@@ -1,4 +1,5 @@
 // DSA ( c programming)
+// a standard c program for making tic tac toe game which consist of 3x3 matrix
 //program for mini project in c program in dsal
 #include <stdio.h>
 #include <stdlib.h>
